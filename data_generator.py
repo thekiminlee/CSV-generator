@@ -1,3 +1,5 @@
+# Author: Ki Min Lee
+
 import sys
 import csv
 import random

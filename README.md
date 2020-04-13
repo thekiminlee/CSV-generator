@@ -5,5 +5,5 @@ Modify <em>ATTR_NAME</em>, <em>ATTR_RANGE</em>, and <em>DECIMAL</em> to customiz
 To generate data, run
 
 ```
-python3 data_generator.py <filename.csv> <number_of_data_generated>
+python data_generator.py <path_to/filename.csv> <number_of_data_generated>
 ```

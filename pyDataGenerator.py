@@ -42,7 +42,7 @@ def generate(numData, exporting=True):
 
 def generator(numData):
     # Creates a generator of sample data
-    while(numData >= 0):
+    while(numData > 0):
         data = []
         for attribute in ATTR_RANGE:
             if type(attribute) == list:
